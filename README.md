@@ -1,4 +1,4 @@
-# NAPI2B Structural Bioinformatics Project
+# NAPI2B Project
 
 ## 📖 Описание проекта
 
